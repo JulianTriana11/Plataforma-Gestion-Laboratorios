@@ -1,11 +1,3 @@
-ChatGPT Plus
-
-Perfecto bro 🔥 —te dejo una descripción profesional y completa que puedes usar directamente en tu repositorio de GitHub (en el campo “Description” o en el README.md):
-
-💡 Descripción del repositorio (versión corta para el campo “Description”)
-
-Plataforma de Gestión de Laboratorios Universitarios desarrollada bajo metodología ágil Scrum y Design Thinking. Incluye documentación, historias de usuario, diagrama de flujo, tablero Trello y código base del sistema.
-
 📄 Versión extendida para el README.md (más completa y formal)
 Plataforma de Gestión de Laboratorios Universitarios
 
